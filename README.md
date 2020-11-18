@@ -10,3 +10,4 @@ Steps to Run App
   2) npm start 
    it will start development server
  
+![Screenshot from 2020-11-18 18-06-29](https://user-images.githubusercontent.com/42669128/99531509-d47b9900-29c8-11eb-9470-be1d2dd9cf75.png)
