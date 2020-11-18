@@ -77,7 +77,7 @@ const DataLists = props => {
               <StyledTableCell align="left">
               <IconButton
               aria-label="Delete"
-              onClick={() => removeData(info.Id)}>
+              onClick={() => removeData(Id)}>
               <DeleteOutlined />
             </IconButton>
               
